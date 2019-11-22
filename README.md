@@ -1,6 +1,12 @@
-# Pruebauno
+# Crud de Roles
+
+Este ejemplo es con fines educativos, respecto al uso practico del framework angular. Principal objectivo es consumir servicos api rest provenientes de .NET Core. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+
+## Dependencies
+Antes de correr el proyecto, ejecutar el comando `npm install` dentro de la raiz del proyecto, para
+ instalar las depencias necesarias.
 
 ## Development server
 
